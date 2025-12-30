@@ -5,3 +5,4 @@ Change made by Student A
 Fixed database connection logic
 Implemented user registration module
 Resolved database connection bug
+Fixed typo in documentation
