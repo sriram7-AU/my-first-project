@@ -3,3 +3,4 @@ This file is modified for Git lab practice.
 Temporary work in progress
 Change made by Student A
 Fixed database connection logic
+Implemented user registration module
