@@ -1,2 +1,3 @@
 Todo CLI Project
 Feature: View Tasks
+Feature: Delete Task
