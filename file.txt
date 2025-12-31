@@ -1,2 +1,6 @@
 Todo CLI Project
+<<<<<<< HEAD
 Feature: View Tasks
+=======
+Feature: Add Task
+>>>>>>> feature-add-task
